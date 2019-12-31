@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "awotideisaiah.me/static/js/runtime~main.faec66de.js"
   },
   {
-    "revision": "b0cfbc25e44b7722a890",
-    "url": "awotideisaiah.me/static/js/main.b0cfbc25.chunk.js"
+    "revision": "0759145bef441eb76f7b",
+    "url": "awotideisaiah.me/static/js/main.0759145b.chunk.js"
   },
   {
     "revision": "6eb6405c9d99258624bc",
     "url": "awotideisaiah.me/static/js/1.6eb6405c.chunk.js"
   },
   {
-    "revision": "b0cfbc25e44b7722a890",
-    "url": "awotideisaiah.me/static/css/main.594a94d0.chunk.css"
+    "revision": "0759145bef441eb76f7b",
+    "url": "awotideisaiah.me/static/css/main.7bb2d2ee.chunk.css"
   },
   {
-    "revision": "b63174cc7f4c0add5405fbad66a24a15",
+    "revision": "d7d83eb2738a37f6b330cde41a1ec966",
     "url": "awotideisaiah.me/index.html"
   }
 ];
